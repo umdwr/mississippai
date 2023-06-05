@@ -8,6 +8,7 @@
 layout: page
 ---
 
+# Welcome to the Mississippi AI Institute
 ![Mississippi AI Institute Logo](/assets/logo-alt-square-mississippi.png)
 
-## Welcome to the Mississippi AI Institute
+
