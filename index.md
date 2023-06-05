@@ -7,3 +7,5 @@
 #
 layout: page
 ---
+
+![Mississippi AI Institute Logo](/assets/logo-alt-square-mississippi.png)
