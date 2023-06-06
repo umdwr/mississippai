@@ -16,7 +16,4 @@ By participating in the AI summer institute, faculty members can expect:
 
 - Practical exercises to deepen understanding and explore generative writing, research, and reading tools and techniques for developing AI solutions in education
 
-Interested in collaborating with us to host an AI workshop of your own? [Contact us!](mailto:hello@mississippi.ai). In the meantime, feel free to enroll in and explore the open, asynchornous version of the workshop course. A word of caution: it's rough around the edges, and you may come across broken links and typographical errors: 
-
-[Enroll in the AI Institute Open Course](https://canvas.instructure.com/enroll/AT39B3)
-
+Interested in collaborating with us to host an AI workshop of your own? [Contact us!](mailto:hello@mississippi.ai). 
